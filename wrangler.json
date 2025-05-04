@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "timetracker",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "8f540b19-2350-401b-a9ec-05798a15eea5",
+      "database_name": "timetracker"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
